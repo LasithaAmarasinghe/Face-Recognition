@@ -1,4 +1,4 @@
-# face-recognition
+# Face-Recognition
 
 ## Overview
 
@@ -6,16 +6,16 @@
 - The system can encode known faces from images in a directory, recognize faces in an input image, and label the recognized faces.
 - This repository contains all the codes and resources of this project.
 
-## Features
+## Steps
 
-- Encode faces from images stored in a directory.
-- Recognize and label faces in an input image.
-- Display the input image with labeled faces.
+- Encoding faces from images stored in a directory.
+- Recognizing and label faces in an input image.
+- Displaying the input image with labeled faces.
 
 ## Code
 
 You can find the code for this project here.
-* [face_rec.py](https://github.com/LasithaAmarasinghe/face-recognition/blob/main/face_rec.py).
+* [face_rec.py](https://github.com/LasithaAmarasinghe/Face-Recognition/blob/main/face_rec.py).
 
 ## Technologies/Tools
 
@@ -26,4 +26,6 @@ You can find the code for this project here.
     * numpy `pip install numpy`
     * face_recognition `pip install face_recognition`
     * opencv-python `pip install opencv-python`
-* C++ compiler - install [Visual Studio](https://visualstudio.microsoft.com/downloads/) 
+* C++ compiler - install [Visual Studio](https://visualstudio.microsoft.com/downloads/)
+
+  
