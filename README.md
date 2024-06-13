@@ -86,6 +86,6 @@ You can find the code for this project here.
 
 ## License
  
- * This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+ * This project is licensed under the MIT License. See the [LICENSE](MIT-LICENSE.txt) file for details.
  
 
