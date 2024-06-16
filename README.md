@@ -20,12 +20,20 @@ You can find the code for this project here.
 ## Technologies/Tools
 
 * Python 3.10.12
+* OpenCV `pip install opencv-python`
 * Python packages
+    * numpy `pip install numpy`
     * cmake `pip install cmake`
     * dlib `pip install dlib`
-    * numpy `pip install numpy`
     * face_recognition `pip install face_recognition`
-    * opencv-python `pip install opencv-python`
+ 
+![Python](https://img.shields.io/badge/python-3670A0?logo=python&logoColor=FFFF00)
+![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?logo=opencv&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?logo=numpy&logoColor=white)
+![cmake](https://img.shields.io/badge/cmake_-red)
+![dlib](https://img.shields.io/badge/dlib_-purple)
+![face_recognition](https://img.shields.io/badge/face_recognition_-brown)
+   
 * C++ compiler - install [Visual Studio](https://visualstudio.microsoft.com/downloads/)
 
 ## Installation
