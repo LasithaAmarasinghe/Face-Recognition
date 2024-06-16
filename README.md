@@ -2,7 +2,7 @@
 
 ## Overview
 
-- This project demonstrates a basic face recognition system using [Python](https://www.python.org/), [OpenCV](https://opencv.org/), and the [face_recognition](https://pypi.org/project/face-recognition/) library.
+- This project demonstrates a basic face recognition system using **[Python](https://www.python.org/)**, **[OpenCV](https://opencv.org/)**, and the **[face_recognition](https://pypi.org/project/face-recognition/)** library.
 - The system can encode known faces from images in a directory, recognize faces in an input image, and label the recognized faces.
 - This repository contains all the codes and resources of this project.
 
