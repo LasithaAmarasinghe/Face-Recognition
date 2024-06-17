@@ -72,7 +72,7 @@ You can find the code for this project here.
      - Run the script:
  
        ```bash
-       python face_recognition_script.py
+       python face_rec.py
        ```
  
   3. **Interact with the Display:**
