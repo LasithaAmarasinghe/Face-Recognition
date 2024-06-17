@@ -41,8 +41,8 @@ You can find the code for this project here.
   1. **Clone the repository:**
  
      ```bash
-     git clone https://github.com/your_username/your_repository.git
-     cd your_repository
+     git clone https://github.com/LasithaAmarasinghe/Face-Recognition.git
+     cd Face-Recognition
      ```
  
   2. **Create and activate a virtual environment (optional but recommended):**
