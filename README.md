@@ -90,7 +90,7 @@ You can find the code for this project here.
 ## Results
 
 ![image](https://github.com/LasithaAmarasinghe/Face-Recognition/assets/106037441/5c986ce6-ca57-4888-b27a-1d0b3568e116)
-![results (3)](https://github.com/LasithaAmarasinghe/Face-Recognition/assets/106037441/62978598-b80b-4813-8cbe-1aad8a59ea1f)
+
 
 ## License
  
